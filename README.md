@@ -19,8 +19,8 @@ Suggestions are always welcome!
 - Socials: ...  [Instagram](https://www.instagram.com/bryon_beaufait/)
 - Fun fact: ... The world's first animated feature film, El Apóstol, was made in Argentina
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryonbeaufait&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryonbeaufait&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryonbeaufait&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryonbeaufait&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bryonbeaufait&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
